@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Yuliang Zhong** and I am currently a junior autonomy engineer at Flyability SA. I have a master's degree in Robotics, Systems, and Control at ETH Zürich, as well as a Bachelor's degree in Mechanical Engineering at Shanghai Jiao Tong University (SJTU) with honors. 
+My name is **Yuliang Zhong** and I am currently a junior autonomy engineer at [Flyability SA](https://www.flyability.com/). I have a master's degree in Robotics, Systems, and Control at ETH Zürich, as well as a Bachelor's degree in Mechanical Engineering at Shanghai Jiao Tong University (SJTU) with honors. 
 
 My passion lies in making robots 🤖️ show intelligence and perform well in complex environments. My interests range from robot planning to control, including **decision making** 🤯 , **path/motion planning** 👣 , and **optimal control** ⚙️ of autonomous systems.
 
