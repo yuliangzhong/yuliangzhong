@@ -7,3 +7,5 @@ My passion lies in making robots 🤖️ show intelligence and perform well in c
 I am dedicated to building my robotic toolbox 🧰 and have taken deep and comprehensive classes in robot dynamics, machine learning, path planning, and model predictive control at ETH. I am proficient in modern **C++**, **python/Pytorch**, **Matlab/Simulink** and **ROS1/2**.
 
 I am a self-motivated individual with a great curiosity for new knowledge and a meticulous and reliable approach to my work. I am not only a fast learner, but also skilled at organizing and summarizing information. So excited I am to see where my passion for robotics takes me in the future 😄 !
+
+Please find my CV [here](https://github.com/yuliangzhong/yuliangzhong/blob/main/Zhong%20CV-2023-01-24.pdf). I am open to any **interesting**, **fantastic**, and **CRAZY** robotic ideas or challenges. Feel free to reach out to me!
